@@ -12,12 +12,12 @@ function isPrime(number) {
 
 function printIsPrime(number) {
   if (isPrime(number)) {
-    console.log("1 - O número é primo.");
+    console.log("1 - O número " + number + " é primo.");
   } else {
-    console.log("0 - O número não é primo.");
+    console.log(`0 - O número ${number} não é primo.`);
   }
 }
 
 // Exemplo de uso
-const inputNumber = 33;  // Altere este valor para o número que você deseja verificar
+const inputNumber = 0;  // Altere este valor para o número que você deseja verificar
 printIsPrime(inputNumber);
