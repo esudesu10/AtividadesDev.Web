@@ -19,5 +19,5 @@ function printIsPrime(number) {
 }
 
 // Exemplo de uso
-const inputNumber = 0;  // Altere este valor para o número que você deseja verificar
+const inputNumber = 33;  // Altere este valor para o número que você deseja verificar
 printIsPrime(inputNumber);
