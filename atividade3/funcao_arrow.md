@@ -1,7 +1,3 @@
-**Função Arrow (Arrow Function)**
-
-Arquivo: `funcao_arrow.md`
-
 ## Função Arrow
 
 As Arrow Functions (ou funções de seta) são uma sintaxe alternativa e concisa para criar funções em JavaScript. Elas são especialmente úteis para escrever funções simples e de uma única expressão de forma mais sucinta.
