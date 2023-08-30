@@ -1,3 +1,3 @@
 const calc = require('./util/calculadora');
 
-console.log(calc.soma(1, 5));
+console.log(calc.somar(1, 5));
