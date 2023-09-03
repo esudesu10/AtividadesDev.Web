@@ -20,7 +20,3 @@ const somaArrow = (a, b) => a + b;
 console.log(soma(2, 3));       // Saída: 5
 console.log(somaArrow(2, 3));  // Saída: 5
 ```
-
-**Promise**
-
-Arquivo: `promise.md`
